@@ -1,0 +1,10 @@
+{
+  "name": "entypo-plus",
+  "description": "Carefully crafted premium pictograms by Daniel Bruce",
+  "license": "CC BY-SA 4.0",
+  "dependencies": {
+  },
+  "engines" : {
+    "node" : ">=0.10.3"
+  }
+}
